@@ -1,3 +1,3 @@
 # mapbox-pitch-bug-example
 
-[screenshot](./screenshots/pitch.gif)
+![screenshot](./screenshots/pitch.gif)
